@@ -14,3 +14,5 @@ The Clothing Extraction Module is implemented using "Self-Correction for Human P
 ![system](https://github.com/ikenaga530/Image-based-virtual-try-on-system-with-clothing-extraction-module-that-adapts-to-any-posture/blob/main/images/system.png)
 
 ![result](https://github.com/ikenaga530/Image-based-virtual-try-on-system-with-clothing-extraction-module-that-adapts-to-any-posture/blob/main/images/result.png)
+
+- [Open with Colab](https://colab.research.google.com/github/ikenaga530/Image-based-virtual-try-on-system-with-clothing-extraction-module-that-adapts-to-any-posture/blob/master/Clothing_Extraction_Module.ipynb)
