@@ -7,3 +7,5 @@ If you have any questions about our paper, please send to [takumi.ne.jp530@gmail
 
 # Clothing Extraction Module
 The Clothing Extraction Module is implemented using "Self-Correction for Human Parsing".　For more information, see the following paper and github.
+[[SCHP Paper]](https://arxiv.org/abs/1910.09777)
+[[SCHP Github]](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing)
