@@ -5,4 +5,4 @@ If you have any questions about our paper, please send to [takumi.ne.jp530@gmail
 
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849322001091)
 
-#Clothing Extraction Module
+# Clothing Extraction Module
