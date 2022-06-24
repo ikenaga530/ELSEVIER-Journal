@@ -21,6 +21,7 @@ We implemented the Clothing Extraction Module in google colab for casual use.
 
 # Related
 - Virtual-Try-On-System
+
 [CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On](https://github.com/minar09/cp-vton-plus)
 
 [Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content](https://github.com/switchablenorms/DeepFashion_Try_On)
