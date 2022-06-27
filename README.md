@@ -17,6 +17,8 @@ We implemented the Clothing Extraction Module in google colab for casual use.
 
 ![system](https://github.com/ikenaga530/Image-based-virtual-try-on-system-with-clothing-extraction-module-that-adapts-to-any-posture/blob/main/images/system.png)
 
+![clothing_extraction](https://github.com/ikenaga530/Image-based-virtual-try-on-system-with-clothing-extraction-module-that-adapts-to-any-posture/blob/main/images/clothing_extraction.png)
+
 ![result](https://github.com/ikenaga530/Image-based-virtual-try-on-system-with-clothing-extraction-module-that-adapts-to-any-posture/blob/main/images/result.png)
 
 # Related
